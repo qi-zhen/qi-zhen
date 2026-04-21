@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zhen-qi
+- 👋 Hi, I’m @Jack Black
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me qhc18663023512@gmail.com
+- 📫 How to reach me 
 
 <!---
 qi-zhen/qi-zhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
